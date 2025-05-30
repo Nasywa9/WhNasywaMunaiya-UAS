@@ -1,4 +1,4 @@
 class DataSaya {
-   static String nama = "Kudut";
-    static String gambar = "assets/mahasiswa/kudut.png";
+  static String nama = "Nasywa Munaiya";
+  static const String gambar = 'assets/nasywa.jpg';
 }

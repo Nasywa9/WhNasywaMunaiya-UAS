@@ -5,7 +5,6 @@ import 'package:whazlansaja/screen/beranda_screen.dart';
 void main() {
   runApp(const MainApp());
 }
-
 class MainApp extends StatelessWidget {
   const MainApp({super.key});
 
